@@ -1,4 +1,4 @@
-git add code.py
+git add .
 DATE=$(date)
 MESSAGE="Submission at: $DATE"
 git commit -m "$MESSAGE"
